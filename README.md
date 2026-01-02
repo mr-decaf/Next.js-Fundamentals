@@ -11,18 +11,16 @@ Good luck!
 
 # System Requirements
 
-Node.js 18.17.0 or newer (<code>npm</code> is included with Node.js installation)
+Node.js 18.17.0 or newer (<code>pnpm</code> is included with Node.js installation)
 
 MacOS, Windows, and Linux Supported
-
-Optional - Install <code>yarn</code> if you prefer to use it instead of <code>npm</code>
 
 # Clone repository
 
 git clone https://github.com/adhithiravi/Next.js-Fundamentals.git
 
 # Install dependencies
-<code>npm install</code>
+<code>pnpm install</code>
 
 # Run development server
-<code>npm run dev</code>
+<code>pnpm run dev</code>
